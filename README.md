@@ -1,3 +1,35 @@
-🧮 Calculator Project (README.md)Yahan aap apne calculator ka ek chota sa introduction likhein. Jaise: "Yeh ek simple web-based calculator hai jo basic arithmetic operations perform karta hai."✨ FeaturesBasic Arithmetic: Addition, Subtraction, Multiplication, aur Division.Responsive Design: Mobile aur Desktop dono par sahi chalta hai.Error Handling: Divide by zero jaise errors ko handle karta hai.Clear Function: Ek click mein screen saaf karne ka option.🛠️ Tech StackHTML5: Structure ke liye.CSS3: Styling aur animations ke liye.JavaScript: Logic aur calculations ke liye.🚀 DemoAap yahan apne live project ka link daal sakte hain (agar aapne GitHub Pages ya Vercel par host kiya hai):[Live Demo Link Yahan Daalein]📸 Screenshots💻 Installation & UsageAgar koi aapka code apne computer par chalana chahta hai:Repository ko clone karein:Bashgit clone https://github.com/your-username/calculator-repo.git
-Project folder mein jayein:Bashcd calculator-repo
-index.html file ko apne browser mein open karein.🧪 Mathematical LogicCalculator mein use hone wala basic formula:$$Result = Operand_1 \times Operation \times Operand_2$$🤝 ContributingAgar aap ismein kuch badlav karna chahte hain, toh "Pull Request" open karein. Suggestions ka swagat hai!
+<h1> 🧮 Modern Calculator </h1>
+<br/>
+<p> A sleek, responsive, and functional web-based calculator built with clean code and a user-friendly interface. This project handles basic arithmetic operations with precision and ease. </p>
+<br/>
+<h2> ✨ Features </h2>
+<br/>
+<p>
+   Arithmetic Operations: Supports Addition, Subtraction, Multiplication, and Division.
+   <br/>
+   Responsive UI: Fully optimized for Mobile, Tablet, and Desktop screens.
+  <br/>
+  Advanced Logic: Includes functionality for decimal points and "Clear/Delete" actions.
+</p>
+<h2> 🛠️ Tech Stack </h2>
+<br/>
+<b> HTML5: Semantic structure. </b>
+<br/>
+<b>CSS3: Custom styling with Flexbox/Grid for a modern look. </b>
+<br/>
+<b> JavaScript (ES6): Logic for calculations and event handling. </b>
+<br/>
+<h3> 🚀 Live Demo </h3>
+<p> https://bilal-qadir-webdeveolper.github.io/Calculator/ </p>
+<br/>
+<h2> 💻 How to Run Locally </h2>
+<p>  1 
+  <br/>
+  Clone the repository: git clone https://github.com/bilal-qadir-webdeveolper/calculator-repo.git </p>
+<h2> Navigate to the project directory: </h2>
+<p> 2 
+   <br/>
+  cd calculator-repo </p>
+  <h4> 🧮 How it Works </h4>
+  <p> The calculator processes inputs using a simple logic flow. For any two numbers $a$ and $b$, the operation is calculated as:$$f(a, b) = a \text{ [operator] } b$$ </p>
+  
