@@ -31,5 +31,5 @@
    <br/>
   cd calculator-repo </p>
   <h4> 🧮 How it Works </h4>
-  <p> The calculator processes inputs using a simple logic flow. For any two numbers $a$ and $b$, the operation is calculated as:$$f(a, b) = a \text{ [operator] } b$$ </p>
+  <p> The calculator processes inputs using a simple logic flow. For any two numbers $a$ and $b$, the operation is calculated as: <br/>$$f(a, b) = a \text{ [operator] } b$$ </p>
   
